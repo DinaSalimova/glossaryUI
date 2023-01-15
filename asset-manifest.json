@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/glossaryUI/static/css/main.ae43747b.css",
+    "main.js": "/glossaryUI/static/js/main.e58e57f7.js",
+    "index.html": "/glossaryUI/index.html",
+    "main.ae43747b.css.map": "/glossaryUI/static/css/main.ae43747b.css.map",
+    "main.e58e57f7.js.map": "/glossaryUI/static/js/main.e58e57f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae43747b.css",
+    "static/js/main.e58e57f7.js"
+  ]
+}
